@@ -1,6 +1,6 @@
 # Optimal Relay Selection in LTE/4G/5G UAV Networks
 
-This is the official repository for the research project of **Shahriar Malik**. 
+ This project was completed as part of the coursework for Traffic Engineering at Institute of Communication Networks. 
 
 ## About the  Project
 
