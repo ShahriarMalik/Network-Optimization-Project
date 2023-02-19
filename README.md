@@ -22,10 +22,10 @@
 | Packages      | See _requirements.txt_      |
 
 ## Project Task Description
-Please see the file **Project Report.pdf**.
+Please see the file **optimization_final_task.pdf**.
 
 ## Project Report
-Please see the project report in the file **Project Report.pdf**.
+Please see file **Project Report.pdf**.
 
 
 ### How to run the project
