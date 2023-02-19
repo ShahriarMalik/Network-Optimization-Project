@@ -21,8 +21,10 @@
 | Windows       | Windows 10 Pro version 21H1 |
 | Packages      | See _requirements.txt_      |
 
+## Project Task Description
+
 ## Project Report
-Please see the project description in the file **Project Report.pdf**.
+Please see the project report in the file **Project Report.pdf**.
 
 
 ### How to run the project
