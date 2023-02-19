@@ -22,6 +22,7 @@
 | Packages      | See _requirements.txt_      |
 
 ## Project Task Description
+Please see the file **Project Report.pdf**.
 
 ## Project Report
 Please see the project report in the file **Project Report.pdf**.
