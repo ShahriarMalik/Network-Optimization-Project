@@ -1,6 +1,6 @@
 # Optimal Relay Selection in LTE/4G/5G UAV Networks
 
- This project was completed as part of the coursework for **Traffic Engineering** at **Institute of Communication Networks**. 
+ This project was completed as part of the coursework for **Traffic Engineering** at **Institute of Communication Networks**.The goal was to formulate an optimization problem for a scenario where uniformly distributed UAVs are trying to send data to a ground station using relays
 
 ## About the  Project
 
@@ -28,13 +28,13 @@ Please see the project description in the file **Project Report.pdf**.
 ### How to run the project
 Please run the following files for for different number UAV network.
 
-# optimization Gurobi Solver: 
+#### optimization Gurobi Solver: 
 1. optimization_Gurobi_3_UAV.py # for 3 UAV network
 2. optimization_Gurobi_4_UAV.py # for 4 UAV network
 3. optimization_Gurobi_5_UAV.py # for 5 UAV network
 4. optimization_Gurobi_7_UAV.py # for 7 UAV network
 
-#Heuristic Implementation:
+#### Heuristic Implementation:
 1. heuristic_3_UAV.py # for 3 UAV network
 2. heuristic_4_UAV.py # for 4 UAV network
 3. heuristic_5_UAV.py # for 5 UAV network
