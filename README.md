@@ -1,6 +1,6 @@
 # Optimal Relay Selection in LTE/4G/5G UAV Networks
 
- This project was completed as part of the coursework for **Traffic Engineering** at **Institute of Communication Networks**.The goal was to formulate an optimization problem for a scenario where uniformly distributed UAVs are trying to send data to a ground station using relays
+ This project was completed as part of the coursework for **Traffic Engineering** at **Institute of Communication Networks**.
 
 ## About the  Project
 
