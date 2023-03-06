@@ -28,7 +28,7 @@ Please see the file **optimization_final_task.pdf**.
 Please see file **Project Report.pdf**.
 
 
-### How to run the project
+### How to run the programs
 Please run the following files for for different number UAV network.
 
 #### optimization Gurobi Solver: 
